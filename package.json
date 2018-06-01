@@ -1,0 +1,31 @@
+{
+  "name": "aliyun-sign",
+  "version": "1.0.0",
+  "description": "阿里云api签名实现",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/aliyun-signature.git"
+  },
+  "keywords": [
+    "aliyun",
+    "signature",
+    "aliyun-signature"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/aliyun-signature/issues"
+  },
+  "homepage": "https://github.com/gavinning/aliyun-signature#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
