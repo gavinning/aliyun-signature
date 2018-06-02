@@ -1,6 +1,6 @@
 {
   "name": "aliyun-sign",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "阿里云api签名实现",
   "main": "app.js",
   "scripts": {
